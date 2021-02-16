@@ -1,0 +1,25 @@
+main {
+    margin: 5rem 5rem;
+}
+
+aside > .aside-card {
+    display: flex;
+    flex-direction: column;
+    justify-items: center;
+    border:1px solid red;
+    width:300px;
+    align-items: center;
+}
+
+aside >.aside-card> .aside-card-avatar{
+    width:70px;
+    height: 70px;
+    border-radius: 50%;
+}
+
+aside > .aside-card > .aside-card-title {
+
+}
+aside > .aside-card>.aside-card-content{
+    line-height: 2rem;
+}
