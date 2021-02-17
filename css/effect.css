@@ -1,0 +1,8 @@
+aside > .aside-card > .aside-card-footer > i {
+    transition: color .5s;
+}
+
+aside > .aside-card > .aside-card-footer > i:hover {
+    color: black;
+    position: relative;
+}
